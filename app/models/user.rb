@@ -1,0 +1,2 @@
+class Noob < ActiveRe
+ykfhgsord
